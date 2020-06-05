@@ -30,7 +30,7 @@
         <commons-io.version>2.4</commons-io.version>
         <commons-collections.version>3.2.2</commons-collections.version>
 
-        <spring.version>4.2.3.RELEASE</spring.version>
+        <spring.version>5.2.6.RELEASE</spring.version>
         <spring.retry.version>1.0.3.RELEASE</spring.retry.version>
         <spring.security.version>3.2.8.RELEASE</spring.security.version>
 
