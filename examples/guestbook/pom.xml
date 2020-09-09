@@ -46,7 +46,7 @@
         <cassandra-driver-mapping.version>2.1.7</cassandra-driver-mapping.version>
 
         <javax-el-api-version>2.2.5</javax-el-api-version>
-        <hibernate-validator-version>5.2.2.Final</hibernate-validator-version>
+        <hibernate-validator-version>5.3.6.Final</hibernate-validator-version>
         <h2-version>1.4.191</h2-version>
 
         <mybatis-version>3.3.1</mybatis-version>
