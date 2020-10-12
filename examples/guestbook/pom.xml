@@ -55,7 +55,7 @@
         <freemarker.version>2.3.19</freemarker.version>
         <metrics.version>3.1.0</metrics.version>
         <!-- test libraries -->
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <testng.version>6.8.7</testng.version>
         <selenium.version>2.35.0</selenium.version>
         <mockito.version>1.9.5</mockito.version>
